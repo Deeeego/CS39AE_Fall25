@@ -3,16 +3,15 @@ import streamlit as st
 st.title("👋 My Bio")
 
 # ---------- TODO: Replace with your own info ----------
-NAME = "Your Name"
-PROGRAM = "Your Program / Major / Role"
+NAME = "Diego Molinar"
+PROGRAM = "CS39AE / CS / Student"
 INTRO = (
-    "Write 2–3 sentences about yourself: what you’re studying/working on, "
-    "what excites you about data visualization or computing, etc."
+    "I am currently in my senior year at MSU Devner finishing my CS degree. My current things I'm interested in with Data Visualization and computing is using that data to run my own scripts on sports data. With that knowledge it helps better predict the outcome of the match."
 )
 FUN_FACTS = [
-    "I love …",
-    "I’m learning …",
-    "I want to build …",
+    "I love my mom",
+    "I’m learning about streamlit",
+    "I want to build a website",
 ]
 PHOTO_PATH = "your_photo.jpg"  # Put a file in repo root or set a URL
 
